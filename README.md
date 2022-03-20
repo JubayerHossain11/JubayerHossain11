@@ -24,7 +24,7 @@ Working area :
      TFS / GIT Hub/ GIT Lab.
 
 ✅ Project Management Tools
- Jira/Trello/Azure DevOps
+   Jira/Trello/Azure DevOps
 
 
 Thanks,
